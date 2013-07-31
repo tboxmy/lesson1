@@ -16,5 +16,8 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
         Nicholas A S
     </author>
-
+<feature name="debug-server" required="true">
+   <param name="domain" value="http://debug.phonegap.com"/>
+   <param name="key" value="ikanpaus2013"/>
+</feature>
 </widget>
